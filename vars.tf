@@ -12,5 +12,5 @@ variable "tags" {}
 variable "app_port" {}
 variable "listener_arn" {}
 variable "listener_priority" {}
-variablr "domain_name" {}
+variable "domain_name" {}
  
